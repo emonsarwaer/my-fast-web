@@ -1,0 +1,46 @@
+<style>
+               h1{
+                   background-color:DodgerBlue;
+                   color: #FFFF00;
+                   font-size: 100px;
+                   text-align: center;
+                 }
+                 p{
+                    font-size: 25px;
+                    font-weight:600;
+                 }
+                 #lovely{
+                    font-size: 30px;
+                    font-weight:900;
+                    font-style: italic;
+                    color: crimson;
+                    }
+                    .emu{
+                        background-color: darkcyan;
+                        color: blue;
+                        font-size: 20px;
+                        text-align: center;
+                    }
+                    .sad{
+                        background-color: rgb(97, 7, 7);
+                        color: rgb(76, 194, 86);
+                        font-size: 30px;
+                        text-align: center;
+                    }
+                    .blog{
+                        
+                        border: 5px dashed rgb(182, 15, 112);
+                        border-radius: 40px;
+                        margin: 30px;
+                        padding: 25px;
+                        width: 20%;
+                        display:inline-block ;
+                    }
+                    .lol{
+                        text-align: center; 
+                    }
+                 img{
+                    width: 100%;
+                     }
+                    
+    </style>
